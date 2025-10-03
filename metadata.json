@@ -1,0 +1,5 @@
+{
+  "name": "H100 연동 테스트",
+  "description": "A web application to scan, connect, and communicate with specific Bluetooth Low Energy (BLE) devices. It filters for devices with specific SSID patterns (e.g., 'H100' or names starting with 'H' and having 'P' as the 6th character) and provides an interface for data transmission.",
+  "requestFramePermissions": []
+}
